@@ -1,4 +1,4 @@
-## Experiment 1: Decentralized Certificate Verification
+# Experiment 1: Decentralized Certificate Verification
 ### Name: Tanushree A
 ### Reg No:212223100057
 ## Aim:
