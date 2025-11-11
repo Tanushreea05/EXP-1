@@ -1,4 +1,6 @@
 ### Experiment 1: Decentralized Certificate Verification
+### Name: Tanushree A
+### Reg No:212223100057
 ## Aim:
   To develop a smart contract for issuing and verifying academic certificates on Ethereum, preventing forgery and ensuring authenticity.
 ## Algorithm:
@@ -39,5 +41,9 @@ High-Level Overview:
 ● Enables quick verification by employers or other institutions.
 ● Shows how blockchain can be used in education and credential verification.
 ```
-# Result:
 
+# Output:
+<img width="1917" height="1023" alt="EXP 1 digilock" src="https://github.com/user-attachments/assets/e03136e0-ee39-4a1b-9207-38592bb6bbe2" />
+
+# Result:
+Thus the smart contract for issuing and verifying academic certificates on Ethereum is successfully deployed.
